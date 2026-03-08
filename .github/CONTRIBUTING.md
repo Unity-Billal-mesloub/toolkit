@@ -6,7 +6,7 @@ We welcome contributions in the form of issues and pull requests.  We view the c
 
 Log issues for both bugs and enhancement requests.  Logging issues are important for the open community.
 
-Issues in this repository should be for the toolkit packages. General feedback for GitHub Actions should be filed in the [community forums.](https://github.community/t5/GitHub-Actions/bd-p/actions) Runner specific issues can be filed [in the runner repository](https://github.com/actions/runner).
+Issues in this repository should be for the toolkit packages. General feedback for GitHub Actions should be filed in the [community forums.](https://github.community/t5/GitHub-Actions/bd-p/actions) Runner specific issues can be filed [in the runner repository](https://github.com/Unity-Billal-mesloub/runner).
 
 ## Enhancements and Feature Requests
 
@@ -19,7 +19,7 @@ An ADR is an Architectural Decision Record.  This allows consensus on the direct
 
 ## Development Life Cycle
 
-This repository uses [Lerna](https://github.com/lerna/lerna#readme) to manage multiple packages. Read the documentation there to begin contributing.
+This repository uses [Lerna](https://github.com/Unity-Billal-mesloub/lerna#readme) to manage multiple packages. Read the documentation there to begin contributing.
 
 Note that before a PR will be accepted, you must ensure:
 - all tests are passing
