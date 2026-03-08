@@ -14,7 +14,7 @@
 The GitHub Actions ToolKit provides a set of packages to make creating actions easier.
 
 <br/>
-<h3 align="center">Get started with the <a href="https://github.com/actions/javascript-action">javascript-action template</a>!</h3>
+<h3 align="center">Get started with the <a href="https://github.com/Unity-Billal-mesloub/javascript-action">javascript-action template</a>!</h3>
 <br/>
 
 ## Packages
