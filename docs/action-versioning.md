@@ -54,7 +54,7 @@ Ideally, a major version would carry other benefits to the user to entice them t
 
 To get feedback and to set expectations, the new major version can be initially released with `v2-beta` tag to indicate you can try it out but it's still going under some churn.  Upon release the `-beta` can be dropped and there's an expectation of compatibility from that point forward.
 
-[An example of v2-beta with checkout](https://github.com/actions/checkout/tree/c170eefc2657d93cc91397be50a299bff978a052#checkout-v2-beta)
+[An example of v2-beta with checkout](https://github.com/Unity-Billal-mesloub/checkout/tree/c170eefc2657d93cc91397be50a299bff978a052#checkout-v2-beta)
 
 # Sample Workflow
 
