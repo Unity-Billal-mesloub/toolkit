@@ -32,7 +32,7 @@ Binding to the immutable full sha1 may offer more reliability.  However, note th
 
 # Recommendations
 
-1. **Create a GitHub release for each specific version**: Creating a release like [ v1.0.0 ](https://github.com/actions/javascript-action/releases/tag/v1.0.0) allows users to bind back to a specific version if an issue is encountered with the latest major version.  
+1. **Create a GitHub release for each specific version**: Creating a release like [ v1.0.0 ](https://github.com/Unity-Billal-mesloub/javascript-action/releases/tag/v1.0.0) allows users to bind back to a specific version if an issue is encountered with the latest major version.  
 
 2. **Publish the specific version to the marketplace**:  When you release a specific version, choose the option to "Publish this Action to the GitHub Marketplace".
 
