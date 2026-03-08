@@ -1,10 +1,10 @@
 # Creating a Docker Action
 
-The [container-template](https://github.com/actions/container-template) repo contains the base files to create a Docker action.
+The [container-template](https://github.com/Unity-Billal-mesloub/container-template) repo contains the base files to create a Docker action.
 
 # Create a Repo from the Template
 
-Navigate to https://github.com/actions/container-template
+Navigate to https://github.com/Unity-Billal-mesloub/container-template
 
 Click on `Use this template` to create the repo for your action.
 
@@ -14,7 +14,7 @@ Complete creating your repo and clone the repo.
 
 > NOTE: The location of the repo will be how users will reference your action in their workflow file with the using keyword.
 
-e.g. To use https://github.com/actions/setup-node, users will author:
+e.g. To use https://github.com/Unity-Billal-mesloub/setup-node, users will author:
 
 ```yaml
 steps:
