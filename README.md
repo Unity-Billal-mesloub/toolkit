@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/actions/toolkit/actions?query=workflow%3Atoolkit-unit-tests"><img alt="Toolkit unit tests status" src="https://github.com/actions/toolkit/workflows/toolkit-unit-tests/badge.svg"></a>
-  <a href="https://github.com/actions/toolkit/actions?query=workflow%3Atoolkit-audit"><img alt="Toolkit audit status" src="https://github.com/actions/toolkit/workflows/toolkit-audit/badge.svg"></a>
+  <a href="https://github.com/Unity-Billal-mesloub/toolkit/actions?query=workflow%3Atoolkit-unit-tests"><img alt="Toolkit unit tests status" src="https://github.com/Unity-Billal-mesloub/toolkit/workflows/toolkit-unit-tests/badge.svg"></a>
+  <a href="https://github.com/Unity-Billal-mesloub/toolkit/actions?query=workflow%3Atoolkit-audit"><img alt="Toolkit audit status" src="https://github.com/Unity-Billal-mesloub/toolkit/workflows/toolkit-audit/badge.svg"></a>
 </p>
 
 
@@ -137,7 +137,7 @@ Self-hosted runners can be configured to run behind proxy servers.
 <br/>
 <br/>
 
-<h3><a href="https://github.com/actions/hello-world-javascript-action">Hello World JavaScript Action</a></h3>
+<h3><a href="https://github.com/Unity-Billal-mesloub/hello-world-javascript-action">Hello World JavaScript Action</a></h3>
 
 Illustrates how to create a simple hello world javascript action.
 
@@ -149,7 +149,7 @@ Illustrates how to create a simple hello world javascript action.
 ```
 <br/>
 
-<h3><a href="https://github.com/actions/javascript-action">JavaScript Action Walkthrough</a></h3>
+<h3><a href="https://github.com/Unity-Billal-mesloub/javascript-action">JavaScript Action Walkthrough</a></h3>
 
 Walkthrough and template for creating a JavaScript Action with tests, linting, workflow, publishing, and versioning.
 
@@ -171,7 +171,7 @@ Tests:       3 passed, 3 total
 ```
 <br/>
 
-<h3><a href="https://github.com/actions/typescript-action">TypeScript Action Walkthrough</a></h3>
+<h3><a href="https://github.com/Unity-Billal-mesloub/typescript-action">TypeScript Action Walkthrough</a></h3>
 
 Walkthrough creating a TypeScript Action with compilation, tests, linting, workflow, publishing, and versioning.
 
@@ -208,7 +208,7 @@ ENTRYPOINT ["/entrypoint.sh"]
 ```
 <br/>
 
-<h3><a href="https://github.com/actions/container-toolkit-action">Docker Action Walkthrough with Octokit</a></h3>
+<h3><a href="https://github.com/Unity-Billal-mesloub/container-action">Docker Action Walkthrough with Octokit</a></h3>
 
 Create an action that is delivered as a container which uses the toolkit.  This example uses the GitHub context to construct an Octokit client.
 
