@@ -128,13 +128,6 @@ Problem Matchers are enabled and removed via the toolkit [commands](commands.md#
 
 Registering two problem-matchers with the same owner will result in only the problem matcher registered last running.
 
-## Examples
-
-Some of the starter actions are already using problem matchers, for example:
-- [setup-node](https://github.com/actions/setup-node/tree/main/.github)
-- [setup-python](https://github.com/actions/setup-python/tree/main/.github)
-- [setup-go](https://github.com/actions/setup-go/tree/main/.github)
-- [setup-dotnet](https://github.com/actions/setup-dotnet/tree/main/.github)
 
 ## Troubleshooting
 
